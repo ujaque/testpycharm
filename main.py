@@ -9,6 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
     print('hello world')
     print('hola')
+    print('adios')
 
 
 # Press the green button in the gutter to run the script.
